@@ -2,7 +2,7 @@
 # EmbeddingBleu
 All results are reproducable. And all experiments data and models are available through links and git.
 
-By creating a shotcut to the shared files in your Google Drive root dictionary, you can run the code through colab without future modification. 
+By creating a shotcut to the shared files in your Google Drive root dictionary, .i.e. under "/content/drive/MyDrive/" for google drive in colab, you can run the code through colab without future modification. 
 
 If you want to run it locally, please change the valuable "data_base" in Cell Experiment and the path to open dataset at the first Cell to your path.
 
